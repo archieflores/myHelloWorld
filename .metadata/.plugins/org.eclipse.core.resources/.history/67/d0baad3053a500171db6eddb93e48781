@@ -1,0 +1,14 @@
+#PCF Properties
+#Fri Sep 29 15:10:37 CDT 2017
+bwpcf.instances=2
+bwpcf.trustSelfSignedCerts=true
+bwpcf.env.1=DEBUG
+bwpcf.org=pcfdev-org
+bwpcf.env.0=PCF
+bwpcf.url=myHelloWorld-app.local.pcfdev.io
+bwpcf.space=pcfdev-space
+bwpcf.server=PCF_MX_credential
+bwpcf.memory=1024
+bwpcf.appName=myHelloWorld.app
+bwpcf.target=https\://api.local.pcfdev.io
+bwpcf.buildpack=bwce-buildpack2-3

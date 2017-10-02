@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/mydockerhelloworld.module.Process-hello.json",
+        "type": "generated"
+    }]
+}

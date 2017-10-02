@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/myhelloworld.module.Process-hello.json",
+        "type": "generated"
+    }]
+}

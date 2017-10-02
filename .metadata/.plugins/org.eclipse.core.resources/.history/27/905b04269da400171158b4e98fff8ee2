@@ -1,0 +1,14 @@
+#PCF Properties
+#Thu Sep 28 17:30:48 CDT 2017
+bwpcf.instances=2
+bwpcf.trustSelfSignedCerts=true
+bwpcf.env.1=DEBUG
+bwpcf.org=aflores-org
+bwpcf.env.0=PCF
+bwpcf.url=myHelloWorld.run.pivotal.io
+bwpcf.space=development
+bwpcf.server=PCF_UK_credential
+bwpcf.memory=1024
+bwpcf.appName=myHelloWorld
+bwpcf.target=https\://api.run.pivotal.io
+bwpcf.buildpack=bw-buildpack2-3
